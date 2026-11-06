@@ -1,4 +1,4 @@
-# LearnAdapt AI
+# Adeptiq  (in progress)
 
 ## Developing an Adaptive Learning Platform for Personalized Education
 
