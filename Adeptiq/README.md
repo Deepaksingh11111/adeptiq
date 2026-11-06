@@ -4,7 +4,7 @@
 
 LearnAdapt AI is an AI and ML powered adaptive learning platform designed to provide personalized education based on student performance.
 
-## Main Features(in progress some features)
+## Main Features(in progress new features added soon)
 
 - Class-based learning
 - Self-learning mode
